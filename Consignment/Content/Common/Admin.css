@@ -1,0 +1,71 @@
+﻿.Star {
+    color: red;
+    font-weight: bolder
+}
+
+.RowStyle:hover {
+    background-color: #212529 !important;
+    color: white;
+    cursor: pointer;
+}
+
+.AltRowStyle:hover {
+    background-color: #212529 !important;
+    color: white;
+    cursor: pointer;
+}
+
+#gvReport {
+    width: 100% !important;
+    word-wrap: break-word !important;
+    table-layout: fixed !important;
+}
+
+    #gvReport td {
+        word-wrap: break-word;
+    }
+
+.select2-selection
+{
+    height:37px !important;
+
+}
+
+.select2-container
+{
+    width:100% !important;
+}
+
+.layout-fixed .main-sidebar {
+    font-size: 10pt !important;
+    /*overflow-y: auto !important;*/
+}
+
+.os-viewport {
+    bottom: 30px !important;
+}
+input[type=file] {
+    width: 350px;
+    max-width: 100%;
+    color: #444;
+    padding: 5px;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #555;
+}
+
+    input[type=file]::file-selector-button {
+        margin-right: 20px;
+        height: 26px;
+        border: none;
+        background: #084cdf;
+        padding: 1px 20px;
+        border-radius: 10px;
+        color: #fff;
+        cursor: pointer;
+        transition: background .2s ease-in-out;
+    }
+
+        input[type=file]::file-selector-button:hover {
+            background: #0d45a5;
+        }

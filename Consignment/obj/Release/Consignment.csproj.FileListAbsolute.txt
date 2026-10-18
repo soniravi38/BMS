@@ -1,0 +1,420 @@
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll.config
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Consignment.pdb
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe.config
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.rsp
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe.config
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.rsp
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.AppContext.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Collections.Immutable.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Console.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Http.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Sockets.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.ValueTuple.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe.config
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.rsp
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe
+C:\work\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe.config
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\AspNet.ScriptManager.jQuery.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\BouncyCastle.Crypto.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\itextsharp.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.WebForms.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Web.Infrastructure.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\WebGrease.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\itextsharp.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.pdb
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\work\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.AssemblyReference.cache
+C:\work\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CoreCompileInputs.cache
+C:\work\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CopyComplete
+C:\work\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.dll
+C:\work\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.pdb
+C:\work\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Memory.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.pdb
+C:\work\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Memory.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\zxing.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.dll
+C:\work\ConsignmentApp\Consignment\Consignment\bin\zxing.xml
+C:\work\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll.config
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Consignment.pdb
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe.config
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.rsp
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe.config
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.rsp
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.AppContext.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Console.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Http.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.ValueTuple.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe.config
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.rsp
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\BouncyCastle.Crypto.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\itextsharp.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Memory.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\WebGrease.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\zxing.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.pdb
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\itextsharp.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Memory.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.pdb
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\zxing.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.AssemblyReference.cache
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CoreCompileInputs.cache
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CopyComplete
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.dll
+C:\Users\ravisoni\Documents\Ravi Soni Data\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.pdb
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll.config
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Consignment.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Consignment.pdb
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.exe.config
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csc.rsp
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.exe.config
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\csi.rsp
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Managed.Core.targets
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.AppContext.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Collections.Immutable.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Console.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Globalization.Calendars.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Http.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Net.Sockets.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Reflection.Metadata.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.ValueTuple.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.exe.config
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\vbc.rsp
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe.config
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\AspNet.ScriptManager.jQuery.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\BouncyCastle.Crypto.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\itextsharp.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.ScriptManager.WebForms.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Web.Infrastructure.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Memory.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\WebGrease.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\zxing.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.pdb
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\IronSoftware.Drawing.Common.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\itextsharp.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.Net.Http.Server.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\SixLabors.ImageSharp.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Buffers.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Memory.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Numerics.Vectors.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Text.Encoding.CodePages.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\System.Web.Optimization.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Newtonsoft.Json.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Antlr3.Runtime.pdb
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\zxing.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\zxing.presentation.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\work\new\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.AssemblyReference.cache
+C:\work\new\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CoreCompileInputs.cache
+C:\work\new\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.csproj.CopyComplete
+C:\work\new\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.dll
+C:\work\new\ConsignmentApp\Consignment\Consignment\obj\Release\Consignment.pdb
+E:\Consignment\Consignment\bin\Consignment.dll.config
+E:\Consignment\Consignment\bin\Consignment.dll
+E:\Consignment\Consignment\bin\Consignment.pdb
+E:\Consignment\Consignment\bin\roslyn\csc.exe
+E:\Consignment\Consignment\bin\roslyn\csc.exe.config
+E:\Consignment\Consignment\bin\roslyn\csc.rsp
+E:\Consignment\Consignment\bin\roslyn\csi.exe
+E:\Consignment\Consignment\bin\roslyn\csi.exe.config
+E:\Consignment\Consignment\bin\roslyn\csi.rsp
+E:\Consignment\Consignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Consignment\Consignment\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Consignment\Consignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Consignment\Consignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Consignment\Consignment\bin\roslyn\System.AppContext.dll
+E:\Consignment\Consignment\bin\roslyn\System.Collections.Immutable.dll
+E:\Consignment\Consignment\bin\roslyn\System.Console.dll
+E:\Consignment\Consignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Consignment\Consignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Consignment\Consignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Consignment\Consignment\bin\roslyn\System.Globalization.Calendars.dll
+E:\Consignment\Consignment\bin\roslyn\System.IO.Compression.dll
+E:\Consignment\Consignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.dll
+E:\Consignment\Consignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Consignment\Consignment\bin\roslyn\System.Net.Http.dll
+E:\Consignment\Consignment\bin\roslyn\System.Net.Sockets.dll
+E:\Consignment\Consignment\bin\roslyn\System.Reflection.Metadata.dll
+E:\Consignment\Consignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Consignment\Consignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Consignment\Consignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Consignment\Consignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Consignment\Consignment\bin\roslyn\System.ValueTuple.dll
+E:\Consignment\Consignment\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Consignment\Consignment\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Consignment\Consignment\bin\roslyn\System.Xml.XPath.dll
+E:\Consignment\Consignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Consignment\Consignment\bin\roslyn\vbc.exe
+E:\Consignment\Consignment\bin\roslyn\vbc.exe.config
+E:\Consignment\Consignment\bin\roslyn\vbc.rsp
+E:\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe
+E:\Consignment\Consignment\bin\roslyn\VBCSCompiler.exe.config
+E:\Consignment\Consignment\bin\Antlr3.Runtime.dll
+E:\Consignment\Consignment\bin\AspNet.ScriptManager.jQuery.dll
+E:\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.dll
+E:\Consignment\Consignment\bin\BouncyCastle.Crypto.dll
+E:\Consignment\Consignment\bin\IronSoftware.Drawing.Common.dll
+E:\Consignment\Consignment\bin\itextsharp.dll
+E:\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Consignment\Consignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.dll
+E:\Consignment\Consignment\bin\Microsoft.Net.Http.Server.dll
+E:\Consignment\Consignment\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Consignment\Consignment\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Consignment\Consignment\bin\Microsoft.Web.Infrastructure.dll
+E:\Consignment\Consignment\bin\Newtonsoft.Json.dll
+E:\Consignment\Consignment\bin\SixLabors.ImageSharp.dll
+E:\Consignment\Consignment\bin\System.Buffers.dll
+E:\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Consignment\Consignment\bin\System.Memory.dll
+E:\Consignment\Consignment\bin\System.Numerics.Vectors.dll
+E:\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Consignment\Consignment\bin\System.Text.Encoding.CodePages.dll
+E:\Consignment\Consignment\bin\System.Web.Optimization.dll
+E:\Consignment\Consignment\bin\WebGrease.dll
+E:\Consignment\Consignment\bin\zxing.dll
+E:\Consignment\Consignment\bin\zxing.presentation.dll
+E:\Consignment\Consignment\bin\BitMiracle.LibTiff.NET.xml
+E:\Consignment\Consignment\bin\IronSoftware.Drawing.Common.pdb
+E:\Consignment\Consignment\bin\IronSoftware.Drawing.Common.xml
+E:\Consignment\Consignment\bin\itextsharp.xml
+E:\Consignment\Consignment\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Consignment\Consignment\bin\Microsoft.Extensions.Primitives.xml
+E:\Consignment\Consignment\bin\Microsoft.Net.Http.Server.xml
+E:\Consignment\Consignment\bin\SixLabors.ImageSharp.xml
+E:\Consignment\Consignment\bin\System.Buffers.xml
+E:\Consignment\Consignment\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Consignment\Consignment\bin\System.Memory.xml
+E:\Consignment\Consignment\bin\System.Numerics.Vectors.xml
+E:\Consignment\Consignment\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Consignment\Consignment\bin\System.Text.Encoding.CodePages.xml
+E:\Consignment\Consignment\bin\System.Web.Optimization.xml
+E:\Consignment\Consignment\bin\Newtonsoft.Json.xml
+E:\Consignment\Consignment\bin\Antlr3.Runtime.pdb
+E:\Consignment\Consignment\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Consignment\Consignment\bin\zxing.xml
+E:\Consignment\Consignment\bin\zxing.presentation.xml
+E:\Consignment\Consignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Consignment\Consignment\obj\Release\Consignment.csproj.AssemblyReference.cache
+E:\Consignment\Consignment\obj\Release\Consignment.csproj.CoreCompileInputs.cache
+E:\Consignment\Consignment\obj\Release\Consignm.F702210F.Up2Date
+E:\Consignment\Consignment\obj\Release\Consignment.dll
+E:\Consignment\Consignment\obj\Release\Consignment.pdb

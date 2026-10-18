@@ -1,0 +1,178 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.IO;
+using System.Collections;
+using Consignment.Model;
+
+namespace Consignment.ConsignmentPanel
+{
+    public partial class ListActivityLog : System.Web.UI.Page
+    {
+        #region [properties]
+        ArrayList ParameterName, ParameterValue;
+        DataTable dt = new DataTable();
+        DataSet ds = new DataSet();
+        connect con = new connect();
+        common cm = new common();
+        #endregion
+
+        #region [pageload]
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                fillList();
+                FillUser();
+                GridViewSortDirection = SortDirection.Descending;
+                lblHeading.Text = "List Activity Log";
+            }
+        }
+        #endregion
+
+        #region [All-Function]
+        private void FillUser()
+        {
+            ParameterName = new ArrayList();
+            ParameterValue = new ArrayList();
+            string spName = "Proc_User";
+            try
+            {
+                ParameterName.Add("@Action"); ParameterValue.Add("List");
+                ds = con.GetDataSetFromSP(spName, ParameterName, ParameterValue);
+                dt = ds.Tables[0];
+                if (dt.Rows.Count > 0)
+                {
+                    ddlUser.DataSource = dt;
+                    ddlUser.DataValueField = "Id";
+                    ddlUser.DataTextField = "Name";
+                    ddlUser.DataBind();
+                    ddlUser.Items.Insert(0, new ListItem("--Select User--", "0"));
+                }
+                else
+                {
+                    ddlUser.Items.Clear();
+                    ddlUser.Items.Insert(0, new ListItem("--Select User--", "0"));
+                }
+            }
+            catch (Exception ex)
+            {
+                cm.WriteLog(DateTime.Now.ToString() + " | Page:" + Path.GetFileNameWithoutExtension(Page.AppRelativeVirtualPath) + " | Db:" + Session["Database_"] + " | Method/Event:" + System.Reflection.MethodBase.GetCurrentMethod().Name + " | SP:" + spName + " | User:" + Session["UserName"].ToString() + " | Err:" + ex.Message.ToString());
+            }
+        }
+
+        private void fillList()
+        {
+            ParameterName = new ArrayList();
+            ParameterValue = new ArrayList();
+            string spName = "[Proc_ActivityLog]";
+            try
+            {
+                ParameterName.Add("@Action"); ParameterValue.Add("GetAll");
+                if (Convert.ToInt32(ddlUser.SelectedIndex) > 0)
+                {
+                    ParameterName.Add("@UserId"); ParameterValue.Add(ddlUser.SelectedValue);
+                }
+                ds = con.GetDataSetFromSP(spName, ParameterName, ParameterValue);
+                dt = ds.Tables[0];
+                gvReport.PageSize = Convert.ToInt32(ddlPageSize.SelectedValue);
+                gvReport.DataSource = dt;
+                gvReport.DataBind();
+                litrecordcount.Text = dt.Rows.Count.ToString();
+                ViewState["dtExport"] = dt;
+
+            }
+            catch (Exception ex)
+            {
+                cm.WriteLog(DateTime.Now.ToString() + " | Page:" + Path.GetFileNameWithoutExtension(Page.AppRelativeVirtualPath) + " | Db:" + Session["Database_"] + " | Method/Event:" + System.Reflection.MethodBase.GetCurrentMethod().Name + " | SP:" + spName + " | User:" + Session["UserName"].ToString() + " | Err:" + ex.Message.ToString());
+            }
+
+        }
+        public SortDirection GridViewSortDirection
+        {
+            get
+            {
+                if (ViewState["sortDirection"] == null)
+                {
+                    ViewState["sortDirection"] = SortDirection.Ascending;
+                }
+                return (SortDirection)ViewState["sortDirection"];
+            }
+            set
+            {
+                ViewState["sortDirection"] = value;
+            }
+        }
+        #endregion
+
+        #region [GridViewEvents]
+        protected void gvReport_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            gvReport.PageIndex = e.NewPageIndex;
+            fillList();
+        }
+        protected void gvReport_Sorting(object sender, GridViewSortEventArgs e)
+        {
+            try
+            {
+                DataTable dt = (DataTable)ViewState["dtExport"];
+                DataView dv = new DataView(dt);
+                if (GridViewSortDirection == SortDirection.Ascending)
+                {
+                    GridViewSortDirection = SortDirection.Descending;
+                    dv.Sort = e.SortExpression + " DESC";
+                }
+                else
+                {
+                    GridViewSortDirection = SortDirection.Ascending;
+                    dv.Sort = e.SortExpression + " ASC";
+                }
+                gvReport.DataSource = dv;
+                gvReport.DataBind();
+            }
+            catch (Exception ex)
+            {
+                cm.WriteLog(DateTime.Now.ToString() + " | Page:" + Path.GetFileNameWithoutExtension(Page.AppRelativeVirtualPath) + " | Db:" + Session["Database_"] + " | Method/Event:" + System.Reflection.MethodBase.GetCurrentMethod().Name + " | SP:  | User:" + Session["UserName"].ToString() + " | Err:" + ex.Message.ToString());
+            }
+        }
+        #endregion
+
+        #region [ddlPaging]
+        protected void ddlPageSize_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            fillList();
+        }
+        #endregion
+
+        #region[Events]
+        protected void imgBtnExcel_Click(object sender, ImageClickEventArgs e)
+        {
+            DataTable dtTemp = (DataTable)ViewState["dtExport"];
+            if (dtTemp.Rows.Count > 0)
+            {
+                dtTemp.Columns.Remove("Id");
+                cm.ExportToExcel(dtTemp, "Activity Log");
+            }
+        }
+
+        protected void imgBtnPdf_Click(object sender, ImageClickEventArgs e)
+        {
+            DataTable dtTemp = (DataTable)ViewState["dtExport"];
+            if (dtTemp.Rows.Count > 0)
+            {
+                dtTemp.Columns.Remove("Id");
+                cm.ExportToPdf(dtTemp, "Activity Log");
+            }
+        }
+
+        protected void btnSearch_Click(object sender, EventArgs e)
+        {
+            fillList();
+        }
+        #endregion
+    }
+}

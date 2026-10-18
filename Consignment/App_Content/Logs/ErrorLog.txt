@@ -1,0 +1,175 @@
+09-07-2023 17:57:58 | Page:AddBranch | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_Branch | User:admin | Err:Column 'Name' does not belong to table Table.
+09-07-2023 18:16:02 | Page:ListCashData | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_CashReconciliation] | User:Anand Padalkar | Err:Conversion failed when converting the varchar value 'PUNE' to data type int.
+11-07-2023 20:10:22 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_DieselReconciliation] | User:admin | Err:Operand data type varchar is invalid for sum operator.
+11-07-2023 20:10:38 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_DieselReconciliation] | User:admin | Err:Operand data type varchar is invalid for sum operator.
+11-07-2023 20:11:37 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_DieselReconciliation] | User:admin | Err:Operand data type varchar is invalid for sum operator.
+11-07-2023 20:12:15 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_DieselReconciliation] | User:admin | Err:Error converting data type varchar to numeric.
+11-07-2023 20:21:32 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillListCash | SP:[Proc_CashReconciliation] | User:admin | Err:Error converting data type varchar to numeric.
+11-07-2023 20:21:38 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillListCash | SP:[Proc_CashReconciliation] | User:admin | Err:Error converting data type varchar to numeric.
+11-07-2023 20:22:34 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:fillListCash | SP:[Proc_CashReconciliation] | User:admin | Err:Error converting data type varchar to numeric.
+12-07-2023 21:04:00 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:ValidateUserRights | SP:Proc_UserRights | User:Mithilesh Kumar  | Err:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+12-07-2023 21:04:00 | Page:DieselCashReport | Db:Vayudoot_ | Method/Event:ValidateUserRights1 | SP:Proc_UserRights | User:Mithilesh Kumar  | Err:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+16-07-2023 16:41:34 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+16-07-2023 16:41:46 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+16-07-2023 16:43:31 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+16-07-2023 16:51:52 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+16-07-2023 16:52:58 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+16-07-2023 16:53:19 | Page:BNGExport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LRExportReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+02-12-2023 16:44:51 | Page:UserRights | Db:Vayudoot_ | Method/Event:btnSubmit_Click | SP:[Proc_UserRights] | User:admin | Err:@VehicleStauts is not a parameter for procedure Proc_UserRights.
+10-01-2024 20:32:29 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignee_Click | SP:  | User:admin | Err:Column 'LCNo' does not belong to table .
+10-01-2024 20:33:24 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Column 'LCNo' does not belong to table .
+12-01-2024 21:26:59 | Page:DispatchReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLrReport] | User:admin | Err:Ambiguous column name 'CreatedBy'.
+18-03-2024 20:57:51 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Invalid start/end guards: 210131A
+18-03-2024 20:58:28 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Invalid start/end guards: 210131A
+18-03-2024 20:59:17 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Invalid start/end guards: 210131A
+18-03-2024 21:00:20 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Index was outside the bounds of the array.
+18-03-2024 21:01:13 | Page:ReportViewer | Db:Vayudoot_ | Method/Event:btnConsignor_Click | SP:  | User:admin | Err:Invalid start/end guards: 210131A
+15-02-2025 15:31:33 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:ddlDriver_SelectedIndexChanged | SP:Proc_Driver | User:admin | Err:Column 'DriverLicenseNo' does not belong to table Table.
+15-02-2025 15:37:29 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:ddlDriver_SelectedIndexChanged | SP:Proc_Driver | User:admin | Err:Column 'DriverLicenseNo' does not belong to table Table.
+15-02-2025 17:55:37 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:01:39 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_ViewLC] | User:admin | Err:Incorrect syntax near 'U1'.
+15-02-2025 19:02:11 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:11:53 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:15:45 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:16:22 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:22:01 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:22:01 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleNo' does not belong to table Table.
+15-02-2025 19:22:14 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:22:14 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleNo' does not belong to table Table.
+15-02-2025 19:23:50 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:23:56 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleNo' does not belong to table Table.
+15-02-2025 19:24:18 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleNo' does not belong to table Table.
+15-02-2025 19:25:37 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:25:38 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleHireNo' does not belong to table Table.
+15-02-2025 19:26:36 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleHireNo' does not belong to table Table.
+15-02-2025 19:27:14 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleHireNo' does not belong to table Table.
+15-02-2025 19:27:28 | Page:AddBookLC | Db:Vayudoot_ | Method/Event:FillData | SP:Proc_BookLC | User:admin | Err:Column 'VehicleHireNo' does not belong to table Table.
+15-02-2025 19:46:15 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 19:48:15 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 22:51:08 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 22:51:23 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 22:55:47 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 22:57:51 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 22:59:09 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:01:34 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:05:33 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:08:30 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:13:19 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:13:58 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:28:07 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_ViewLC] | User:admin | Err:Conversion failed when converting date and/or time from character string.
+15-02-2025 23:30:11 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_ViewLC] | User:admin | Err:Conversion failed when converting date and/or time from character string.
+15-02-2025 23:31:23 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+15-02-2025 23:32:37 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_ViewLC] | User:admin | Err:Conversion failed when converting date and/or time from character string.
+15-02-2025 23:53:50 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:ValidateUserRights | SP:Proc_UserRights | User:Surendar | Err:The source contains no DataRows.
+16-02-2025 00:34:10 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+16-02-2025 00:35:02 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+16-02-2025 00:38:12 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+17-02-2025 20:32:30 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:42:37 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:43:21 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:43:45 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:46:19 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:52:39 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 20:53:10 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:07:07 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:09:16 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:13:26 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:13:56 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:16:02 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:16:25 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:16:53 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:Conversion failed when converting date and/or time from character string.
+17-02-2025 22:19:12 | Page:AddBookLR | Db:Vayudoot_ | Method/Event:btnAdd_Click | SP:Proc_BookLR | User:admin | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17-02-2025 22:22:59 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+22-02-2025 20:57:30 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_LcManagement.
+22-02-2025 20:57:33 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_LcManagement.
+22-02-2025 20:59:59 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_LcManagement.
+22-02-2025 21:00:26 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_LcManagement.
+22-02-2025 21:00:32 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_LcManagement.
+04-03-2025 22:43:24 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+04-03-2025 22:46:22 | Page:ListBookLC | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+18-03-2025 21:55:28 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_BookLcReport.
+18-03-2025 21:56:23 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:@LrFrom is not a parameter for procedure Proc_BookLcReport.
+18-03-2025 22:01:00 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+18-03-2025 22:01:56 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'LR No'.
+18-03-2025 22:02:49 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Hire No'.
+18-03-2025 22:04:55 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Hire No'.
+18-03-2025 22:05:20 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:A field or property with the name 'Hire No' was not found on the selected data source.
+18-03-2025 22:06:03 | Page:LcReport | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_BookLcReport] | User:admin | Err:A field or property with the name 'Hire No' was not found on the selected data source.
+29-03-2025 15:10:39 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+05-04-2025 13:37:43 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:39:21 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:39:59 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:45:52 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+05-04-2025 13:46:09 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+05-04-2025 13:46:24 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:47:02 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:47:42 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:48:13 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:57:24 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 13:59:02 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:17:43 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:19:18 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:19:54 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:20:18 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+05-04-2025 14:20:29 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+05-04-2025 14:20:35 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:28:43 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:29:23 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+05-04-2025 14:30:09 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+25-06-2025 21:14:06 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+25-06-2025 21:14:11 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+25-06-2025 21:14:28 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+25-06-2025 21:14:32 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+28-06-2025 22:41:15 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+28-06-2025 22:41:19 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+28-06-2025 22:41:30 | Page:ListLcManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LcManagement] | User:admin | Err:Error converting data type varchar to bigint.
+09-02-2026 21:46:24 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_ViewConsignment] | User:admin | Err:Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+09-02-2026 22:06:24 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:FillCompanyData | SP:Proc_CompanyMaster | User:admin | Err:Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+09-02-2026 22:06:24 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:FillUserData | SP:Proc_User | User:admin | Err:Input string was not in a correct format.
+09-02-2026 22:29:45 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+09-02-2026 22:30:33 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+09-02-2026 22:49:14 | Page:ViewLRBook | Db:Vayudoot_ | Method/Event:gvReport_RowCommand | SP: | User:admin | Err:Thread was being aborted.
+08-03-2026 14:55:43 | Page:VehicleDocManagement | Db:Vayudoot_ | Method/Event:ValidateUserRights | SP:Proc_UserRights | User:Pawan | Err:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+08-03-2026 14:58:46 | Page:VehicleDocManagement | Db:Vayudoot_ | Method/Event:ValidateUserRights | SP:Proc_UserRights | User:Pawan | Err:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+08-03-2026 14:59:29 | Page:VehicleDocManagement | Db:Vayudoot_ | Method/Event:ValidateUserRights | SP:Proc_UserRights | User:Pawan | Err:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+10-03-2026 11:15:58 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+10-03-2026 11:17:03 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+10-03-2026 11:20:32 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+10-03-2026 11:21:04 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+10-03-2026 21:00:50 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+10-03-2026 21:01:11 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+12-04-2026 18:11:47 | POD Bulk Upload Error | Could not find a part of the path 'E:\Consignment\Consignment\App_Content\CSV\POD\b684ed29-c646-428f-a910-c02b0186c52e.csv'.
+12-04-2026 18:12:18 | POD Bulk Upload Error | Could not find a part of the path 'E:\Consignment\Consignment\App_Content\CSV\POD\d401a130-8a1c-4945-a838-ecb33a62031a.csv'.
+12-04-2026 18:13:11 | POD Bulk Upload Error | Could not find a part of the path 'E:\Consignment\Consignment\App_Content\CSV\POD\b3fc970b-6025-47c3-991e-530c19a1cc26.csv'.
+12-04-2026 18:16:39 | POD Bulk Upload Error | STRING_AGG aggregation result exceeded the limit of 8000 bytes. Use LOB types to avoid result truncation.
+12-04-2026 18:18:17 | POD Bulk Upload Error | STRING_AGG aggregation result exceeded the limit of 8000 bytes. Use LOB types to avoid result truncation.
+14-04-2026 16:41:19 | Page:AddVehicleDoc | Method:btnSubmit_Click | Err:The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+14-04-2026 16:42:59 | Page:VehicleDocManagement | Method:LoadCounts | Err:Conversion failed when converting date and/or time from character string.
+17-05-2026 13:55:55 | POD RecDate Bulk Update Error | Invalid object name 'POD'.
+17-05-2026 13:58:29 | POD RecDate Bulk Update Error | Invalid object name 'POD'.
+10-07-2026 09:51:49 | Page:ListLrManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LrManagement] | User:admin | Err:Error converting data type varchar to bigint.
+10-07-2026 09:51:58 | Page:ListLrManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LrManagement] | User:admin | Err:Error converting data type varchar to bigint.
+10-07-2026 09:59:52 | Page:ListLrManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LrManagement] | User:admin | Err:Error converting data type varchar to bigint.
+17-08-2026 14:26:04 | Page:UserRights | Db:Vayudoot_ | Method/Event:btnSubmit_Click | SP:[Proc_UserRights] | User:admin | Err:The given key was not present in the dictionary.
+17-08-2026 14:26:59 | Page:UserRights | Db:Vayudoot_ | Method/Event:btnSubmit_Click | SP:[Proc_UserRights] | User:admin | Err:The given key was not present in the dictionary.
+17-08-2026 14:34:03 | Page:UserRights | Db:Vayudoot_ | Method/Event:btnSubmit_Click | SP:[Proc_UserRights] | User:admin | Err:The given key was not present in the dictionary.
+02-10-2026 15:16:05 | Page:ListLrManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LrManagement] | User:admin | Err:Error converting data type varchar to bigint.
+02-10-2026 15:22:34 | Page:ListLrManagement | Db:Vayudoot_ | Method/Event:fillList | SP:[Proc_LrManagement] | User:admin | Err:Error converting data type varchar to bigint.
+10-10-2026 17:11:13 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
+10-10-2026 17:11:44 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
+10-10-2026 17:12:31 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
+10-10-2026 17:19:21 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
+10-10-2026 17:19:40 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
+10-10-2026 17:24:13 | Page:AddInternalLR | Db:Vayudoot_ | Method/Event:FillPartnerLR | SP:[Proc_InternalLR] (Partner:Universal_) | User:admin | Err:Could not find stored procedure 'Proc_InternalLR'.
