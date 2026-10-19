@@ -348,6 +348,12 @@
                                             <p>POD</p>
                                         </a>
                                     </li>
+                                    <li id="mnuInternalLR" class="nav-item" runat="server">
+                                        <a href="ListInternalLR.aspx" class="nav-link">
+                                            <i class="fa fa-file-invoice"></i>
+                                            <p>Internal LR / Settlement</p>
+                                        </a>
+                                    </li>
                                 </ul>
                             </li>
                             <li id="Li3" class="nav-item" runat="server">
@@ -378,24 +384,24 @@
                                             <p>Dispatch Report</p>
                                         </a>
                                     </li>
-                                     <li id="mnuConsignmentReportMBT" class="nav-item" runat="server">
-     <a href="ConsgReportMBT.aspx" class="nav-link">
-         <i class="fa fa-pallet"></i>
-         <p>Consignment Report - MBT</p>
-     </a>
- </li>
- <li id="mnuViewConsignmentMBT" class="nav-item" runat="server">
-     <a href="ViewLRBookMBT.aspx" class="nav-link">
-         <i class="fa fa-eye"></i>
-         <p>View Consignment - MBT</p>
-     </a>
- </li>
- <li id="mnuDispatchReportMBT" class="nav-item" runat="server">
-     <a href="DispatchReportMBT.aspx" class="nav-link">
-         <i class="fa fa-rainbow"></i>
-         <p>Dispatch Report - MBT</p>
-     </a>
- </li>
+                                    <li id="mnuConsignmentReportMBT" class="nav-item" runat="server">
+                                        <a href="ConsgReportMBT.aspx" class="nav-link">
+                                            <i class="fa fa-pallet"></i>
+                                            <p>Consignment Report - MBT</p>
+                                        </a>
+                                    </li>
+                                    <li id="mnuViewConsignmentMBT" class="nav-item" runat="server">
+                                        <a href="ViewLRBookMBT.aspx" class="nav-link">
+                                            <i class="fa fa-eye"></i>
+                                            <p>View Consignment - MBT</p>
+                                        </a>
+                                    </li>
+                                    <li id="mnuDispatchReportMBT" class="nav-item" runat="server">
+                                        <a href="DispatchReportMBT.aspx" class="nav-link">
+                                            <i class="fa fa-rainbow"></i>
+                                            <p>Dispatch Report - MBT</p>
+                                        </a>
+                                    </li>
                                     <li id="mnuLCReport" class="nav-item" runat="server">
                                         <a href="LcReport.aspx" class="nav-link">
                                             <i class="fa fa-book"></i>
